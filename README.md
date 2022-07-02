@@ -129,7 +129,10 @@ You must have a google cloud account with a project containing Gmail API enabled
 ![preview_1](images/preview_4.png)
 
 5. Mission Success
-   ![preview_1](images/preview_5.png)
+
+![preview_1](images/preview_5.png)
+
+
 
 <!-- ROADMAP -->
 

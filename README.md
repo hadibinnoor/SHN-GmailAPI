@@ -50,14 +50,8 @@
 ## About The Project
 
 -Video
+[![Video](https://img.youtube.com/vi/JOR7Hkw3hIo/0.jpg)](https://www.youtube.com/watch?v=JOR7Hkw3hIo)
 
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/JOR7Hkw3hIo" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/JOR7Hkw3hIo"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
 ### CLI Example
 
